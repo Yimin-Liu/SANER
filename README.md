@@ -28,11 +28,9 @@ conda activate saner
 
 ### 2. Install Dependencies
 
-Install the required dependencies using the provided script:
+Install the required dependencies with:
 
-```bash
-bash requirements.sh
-```
+pip install -r requirements.txt
 
 ---
 
@@ -181,7 +179,7 @@ SANER/
 │   └── msmt17_pretrain/     # Pretrained model for MSMT17
 │       └── transformer_120.pth
 ├── saner_finetune.py        # Main script for SANER fine-tuning
-├── requirements.sh          # Dependency installation script
+├── requirements.txt          # Dependency installation script
 └── README.md
 ```
 
