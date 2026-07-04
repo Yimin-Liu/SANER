@@ -212,5 +212,3 @@ This codebase is built upon widely used person Re-ID and parameter-efficient fin
 
 The license will be released together with the code.
 
-注意 README 里建议统一用 **pretrained**，不要写成 `pretained`。
-
