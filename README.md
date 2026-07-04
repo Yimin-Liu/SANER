@@ -192,10 +192,11 @@ SANER/
 If you find this repository useful for your research, please cite our paper:
 
 ```bibtex
-@inproceedings{zhang2026saner,
-  title={SANER: Switchable Adapter with Non-parametric Enhanced Routing for Person De-Reidentification},
-  author={Zhang, Yongle and others},
+@inproceedings{liu2026saner,
+  title={SANER: Switchable Adapter with Non-parametric Enhanced Routing for Person De-ReIdentification},
+  author={Liu, Yimin and Pu, Nan and Yang, Fengxiang and Li, Wenjing and Li, Zhihui and Zhong, Zhun},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={40376--40385},
   year={2026}
 }
 ```
